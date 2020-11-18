@@ -1,8 +1,9 @@
 # CMPILER-Problem-Set-1
 Author: LAO, Hans Dylan G.
+
 Section: S12
 
-An implementation of a parser for a very reduced MIPS64 instruction set. The main function is in Parser.c
+Description: An implementation of a parser for a very reduced MIPS64 instruction set. The main function is in Parser.c
 
 Running instructions:
 1. Make a text file named INPUT.txt
